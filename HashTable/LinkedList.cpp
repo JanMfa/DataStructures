@@ -1,6 +1,3 @@
-// CMPT 225 Assignment 5
-// Name: Janice Mardjuki
-// Student Number: 301152558
 //  Description: Method Definition of LinkedList Class
 
 #include "LinkedList.h"

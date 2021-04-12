@@ -1,6 +1,3 @@
-// CMPT 225 Assignment 5
-// Name: Janice Mardjuki
-// Student Number: 301152558
 //  Description: Class Definition of LinkedList Class
 
 #pragma once
