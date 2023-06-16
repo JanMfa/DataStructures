@@ -1,1 +1,4 @@
-# DataStructures
+# HashTable
+
+Implementing HashTable using C++
+
